@@ -10,7 +10,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 4. Install ubuntu from the following [link](https://apps.microsoft.com/detail/9NZ3KLHXDJP5?hl=en-us&gl=GR&ocid=pdpshare)
 
-5. From the distribution's page, select "Get".
+5. From the distribution's page, select "Download".
 
 The first time you launch a newly installed Linux distribution, a console window will open and you'll be asked to wait for a minute or two for files to de-compress and be stored on your PC. All future launches should take less than a second.
 
